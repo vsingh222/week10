@@ -1,0 +1,43 @@
+
+
+div.desk1{
+
+    background-color: grey;
+    width: 100%;
+    height: 300px;
+}
+   
+
+div.desk2{
+
+    background-image: url("images/frog.jpg");
+    color: rgb(158, 236, 31);
+    width: 100%;
+    height: 300px;
+}
+
+
+div.desk3, div.desk4{
+    
+    position:absolute;
+    left: 0px;
+    top:600px;
+  
+}
+
+div.desk3{
+    background-image: url("images/flowers.jpg");
+    width: 100%;
+    height: 300px;
+}
+
+div.desk4{
+    background-color: red;
+    opacity:0.3;
+    text-align: right; width: 100%;
+    height: 300px;
+}
+
+
+    
+    

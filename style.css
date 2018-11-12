@@ -1,0 +1,26 @@
+h1{
+
+   font-weight: bold;
+   font-size:32px;
+   font-family: Georgia;
+
+}
+h2{
+
+    font-size: 18px;
+    color:blue;
+    font-family:Georgia;
+}
+p.class1{
+
+    font-size:16px;
+    font-family: Georgia;
+    text-align: center;
+
+}
+p.class2{
+
+    color: #0776df;
+    text-align: left;
+
+}
